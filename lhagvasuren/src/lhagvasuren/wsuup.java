@@ -7,6 +7,7 @@ public class wsuup {
 	System.out.println("lhagva");
 	System.out.println("hi");
 	System.out.println("ss");
+	System.out.println("hey");
 
 	}
 
