@@ -6,7 +6,7 @@ public class wsuup {
 	System.out.println("wssup");
 	System.out.println("lhagva");
 	System.out.println("hi");
-	System.out.println("haha");
+	System.out.println("ss");
 
 	}
 
